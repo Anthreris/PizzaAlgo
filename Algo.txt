@@ -1,2 +1,5 @@
 Decide which business to order from
 Decide which type of pizza to order
+Order pizza and determine the cost
+Drive to the bussiness to purchase and pick up the order
+Inspect the order for any mistakes before leaving to eat pizza at home
